@@ -8,6 +8,7 @@ Run this followed commands:
 # Install dependencies (only the first time)
 npm install
 
+## Run code
 # Run the local server at localhost:5080 use node
 npm run start
 
